@@ -119,6 +119,7 @@ You can also manually deploy the [`next export`](/docs/advanced-features/static-
 ### Serverless
 
 - [AWS Serverless](https://github.com/serverless-nextjs/serverless-next.js)
+- [Azure Container Apps](https://azure.microsoft.com/en-us/services/container-apps/)
 - [Terraform](https://github.com/milliHQ/terraform-aws-next-js)
 - [Netlify](https://docs.netlify.com/integrations/frameworks/next-js)
 
